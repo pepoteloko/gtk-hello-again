@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>io.github.pepoteloko.hello_world_again</id>
+  <id>io.github.pepoteloko.gtk-hello-again</id>
 
   <name>Hello World Again!</name>
   <summary>Hello World Again!</summary>
@@ -19,7 +19,7 @@
   <screenshots>
     <screenshot type="default">
       <caption>The most important feature of my app</caption>
-      <image>https://raw.githubusercontent.com/pepoteloko/hello_world_again/1.0.0/data/screenshot.png</image>
+      <image>https://raw.githubusercontent.com/pepoteloko/gtk-hello-again/1.0.0/data/screenshot.png</image>
     </screenshot>
   </screenshots>
 
@@ -30,7 +30,7 @@
   </branding>
 
   <releases>
-    <release version="1.0.0" date="2022-09-08">
+    <release version="1.0.0" date="2024-07-09">
       <description>
         <p>Initial release, includes features such as:</p>
         <ul>
