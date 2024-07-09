@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.pepoteloko.hello_world_again</id>
+
+  <name>Hello World Again!</name>
+  <summary>Hello World Again!</summary>
+
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      Hello World Again!
+    </p>
+  </description>
+
+  <launchable type="desktop-id">io.github.pepoteloko.hello_world_again.desktop</launchable>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>The most important feature of my app</caption>
+      <image>https://raw.githubusercontent.com/pepoteloko/hello_world_again/1.0.0/data/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+
+  <content_rating type="oars-1.1" />
+
+  <branding>
+    <color type="primary">#f37329</color>
+  </branding>
+
+  <releases>
+    <release version="1.0.0" date="2022-09-08">
+      <description>
+        <p>Initial release, includes features such as:</p>
+        <ul>
+          <li>Application can be launched</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>
