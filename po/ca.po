@@ -1,0 +1,34 @@
+#: src/Application.vala:15
+#, fuzzy
+msgid "Hello Again World!"
+msgstr "Hola mn, un altre cop!"
+
+#: src/Application.vala:21
+#, fuzzy
+msgid "Hello World"
+msgstr "Hola mn, un altre cop!"
+
+#: data/hello-again.desktop.in:6
+msgid "My App"
+msgstr "La meva App"
+
+#: data/hello-again.desktop.in:7
+msgid "Proves that we can use Vala and Gtk"
+msgstr "Prova que podem usar Vala i Gtk"
+
+#: data/hello-again.metainfo.xml.in:5 data/hello-again.metainfo.xml.in:6
+#: data/hello-again.metainfo.xml.in:12
+msgid "Hello World Again!"
+msgstr "Hola mn, un altre cop!"
+
+#: data/hello-again.metainfo.xml.in:21
+msgid "The most important feature of my app"
+msgstr "La caracteristica mes important de la App"
+
+#: data/hello-again.metainfo.xml.in:35
+msgid "Initial release, includes features such as:"
+msgstr "Iiiii re"
+
+#: data/hello-again.metainfo.xml.in:37
+msgid "Application can be launched"
+msgstr "Apppp canc"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>io.github.pepoteloko.gtk-hello-again</id>
+  <id>com.github.pepoteloko.gtk-hello-again</id>
 
   <name>Hello World Again!</name>
   <summary>Hello World Again!</summary>
@@ -14,7 +14,7 @@
     </p>
   </description>
 
-  <launchable type="desktop-id">io.github.pepoteloko.hello_world_again.desktop</launchable>
+  <launchable type="desktop-id">com.github.pepoteloko.gtk-hello-again.desktop</launchable>
 
   <screenshots>
     <screenshot type="default">
