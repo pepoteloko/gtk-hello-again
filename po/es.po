@@ -21,7 +21,7 @@ msgstr "Hola mundo otra vez!"
 
 #: data/hello-again.metainfo.xml.in:21
 msgid "The most important feature of my app"
-msgstr "LAa feature mas importante de mi app"
+msgstr "La feature mas importante de mi app"
 
 #: data/hello-again.metainfo.xml.in:35
 msgid "Initial release, includes features such as:"
